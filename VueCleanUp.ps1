@@ -17,7 +17,7 @@ import { RouterView } from "vue-router";
 </script>
 
 <template>
-    <div>
+    <div class="container">
         <RouterView />
     </div>
 </template>
@@ -30,7 +30,7 @@ $homeViewContent = @"
 </script>
 
 <template>
-    <div class="container">
+    <div>
         <h1>HomeView</h1>
     </div>
 </template>
